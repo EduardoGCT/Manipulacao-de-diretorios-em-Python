@@ -1,1 +1,5 @@
 Projeto realizado para aprender a manipular diretórios em Python. 
+
+Para utilização, o UtilizaçãoMkdir.py cria um diretório novo. Quando o mesmo é utilizado com o diretório já criado, ele retorna o PermissionError.
+O UtilizaçãoRmdir.py remove o diretório criado. Quando o mesmo é utilizado com o diretório já removido, ele retorna o FileNotFoundError.
+
