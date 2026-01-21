@@ -5,3 +5,4 @@ O UtilizaçãoRmdir.py remove o diretório criado. Quando o mesmo é utilizado c
 
 Para testar o errno, precisa ter um diretório criado com um arquivo dentro. 
 
+Para testar as funções, precisa ter o diretório criado e com um arquivo txt dentro para verificação. 
